@@ -1,4 +1,4 @@
-# DBI repo
+# DBI repository
 **Dynamic binary instrumentation**
 - Intel Pintool
 - Python angr
@@ -13,3 +13,4 @@
 - No need to recimpile or relink
 - Discover code at runtime
 - Attach to running processes.
+
