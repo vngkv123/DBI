@@ -17,7 +17,7 @@
 **Basic APIs**
 - Architecture independent.
 - Control-flow changes
-- MEmory accesses
+- Memory accesses
 
 **Call-based APIs**
 - Instrumentation routines
@@ -66,3 +66,8 @@
  39     return 0;
  40 }
 ```
+
+- `INS_Address(ins)` -> Get Address from $pc.
+- `INS_Opcode(ins)` -> Get opcode from $pc.
+- `INS_Delete(ins)` -> Delete instruction.
+
