@@ -7,3 +7,17 @@
 **extra**
 - `PIN_AddFiniFunction`
 - `PIN_AddDetachFunction`
+
+# Event Reactor
+**INS_**
+- instruction tracer
+
+**RTN_**
+- routine tracer
+
+**IMG_**
+- image tracer( img is kind of binary, .so, .dll, etc)... )
+
+**TRACE_**
+- whole program tracer
+
